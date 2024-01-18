@@ -1,0 +1,21 @@
+---BEGIN CRYPTO DATA---
+description:
+    public key
+
+method:
+    RSA
+
+key length:
+    0400
+
+modulus:
+    97ecd0e3a1f87a73f63326739a73222435d0c165a9161ab34c8339114b25
+    fe107034f117ffd0b378b20183696be4e82bd370f09f1e0f9b5ce7fd0e06
+    53882a55599508dfd2a65203c7e6543b53fc7ca257531e9f82daf7ac8fe1
+    2870d630949557dafd1220ca05c83458696122ac1bd9b9659d832ec48567
+    7aa4a8f33001d615
+
+public exponent:
+    010001
+
+---END CRYPTO DATA---

@@ -1,0 +1,42 @@
+---BEGIN CRYPTO DATA---
+description:
+    Stamp
+
+file name:
+    message.txt
+
+method:
+    AES/GCM
+    RSA
+    SHA3-256
+
+key length:
+    c0
+    0400
+
+initialization vector:
+    a108f8dd6088aa9263e5dee404219259
+
+signature:
+    3280514a1f09cd50b9771c000f141e1991e2fabdc0bf3f73e4032e002eec
+    33d53d583bdda814479440c8d21424a6f6ca2732d93399dc0ab1ca0359bd
+    cb2b44d8464ae1326ef0a4f19f10675fcc17c57b635ff8957bf92b92af6d
+    9c10df74cb50e432a2633ff6dc3c63d974de5ac64400545fe015da444ae9
+    a964be2e415ae995852d94436fcea413471a22adc7ba43d42df15a1734f0
+    5b214a4aaab6ae3ff506cb7f3d7cfc05794117f4918bb83e0b0ce470c3fd
+    3824087c9313989885c367516b1f3f25a1da7ee90603de145d264cb45be5
+    acc42602fc224d72b6b527a9f52c5b4b9628759ff12d9038af02268ed843
+    8eb5e3a4924ca4e62eb6ffb81d483652
+
+envelope data:
+    G9BhKQ0lO0SdNCMFu7OQtBcfuy2eecMrtUExVE+zJPpgb4oMrZl8Qg1hA0dG
+    s9VPMJPUmilyAQHd
+
+envelope crypt key:
+    653bc327dab2b310da8325ac72886fefa801b1fb9903c97165d33088f5d9
+    3465bf66dcc66608321a664a1a2857690c6d69ac3f01adf762e49d952259
+    fdd2304106e21c51a9a8f83c4c4a59efcd39f9195a0f1f7dc0be96998a38
+    03e08bcee0f8d464c1bcda56cf036f0826debe6ebcff196ec71dc9eafb88
+    8f13ba69c0ab741a
+
+---END CRYPTO DATA---

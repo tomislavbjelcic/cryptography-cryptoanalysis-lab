@@ -1,0 +1,25 @@
+---BEGIN CRYPTO DATA---
+description:
+    public key
+
+method:
+    RSA
+
+key length:
+    0800
+
+modulus:
+    babef6697b01b908152f7fedc1fa123e14cfa46e0f2d2b3da305b2ea6b80
+    be71b03213e1a5f88a0c248148da4bfacd406596ce2ee2426f5e0e6eeefa
+    0e09fd7d1b0e48fe13e172916bc44f45e6b00ee6c353419edecebeba96b9
+    dd218e07f4f1ca087b731c6014f59f03df284e55e279a5e8cd00270d589a
+    bca03a09613e40ececbfa251387a42e6210db98406246a184f4e68c6df41
+    311189b1132cc078c7518abcdb68206a82ba75095e7054aefcafce28df76
+    6da36ce62160808681961dc5107c41b1ab037b037966220805c12d9b9d4b
+    3c4f1c91aab67193de23ed333ea189fdb3e063fb21075799215e5d4f4b09
+    459f02d39b0af7c9192b0a7206393d5b
+
+public exponent:
+    010001
+
+---END CRYPTO DATA---

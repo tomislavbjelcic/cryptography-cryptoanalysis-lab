@@ -1,2 +1,1 @@
-# cryptography-cryptoanalysis-lab
-Cryptography and Cryptoanalysis course laboratory exercises.
+https://www.fer.unizg.hr/predmet/kik
